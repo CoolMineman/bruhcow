@@ -1,0 +1,12 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "io.github.coolmineman.bruhcow.mixin",
+    "compatibilityLevel": "JAVA_8",
+    "mixins": [
+        "Bruh"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
